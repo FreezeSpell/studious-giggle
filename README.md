@@ -13,4 +13,5 @@ Ideeen:
 - Goedwerkende Discord bot met o.a. alerts, switches, en chat.
 
 TODO:
-- 
+- everything
+- make a to-do list
